@@ -8,13 +8,7 @@ __v0_jsx-dev-runtime.ts
 next.user-config.*
 
 # Environment variables
-MONGODB_URI=your_mongodb_atlas_connection_string
-MONGODB_DB_NAME=ai-assistant
-OPENROUTER_API_KEY=your_openrouter_api_key
-NEXT_PUBLIC_APP_URL=http://localhost:3001
 
-mongodb+srv://chiragbarua:chichi1726@cluster0.fzfpcj4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-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
 
 # Common ignores
 node_modules
